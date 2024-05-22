@@ -1,7 +1,7 @@
-- 👋 Hey! I’m @NachoExg
-- 👀 I’m interested in 3D modeling, game development, and discord bots!
-- 🌱 I’m currently learning Blender, C++.
-- 📫 You can reach me on Discord @Nacho.EXG#1129
+- 👋 Yo! I’m @NachoExg
+- 👀 I’m interested in 3D printing, Network Security, and lots of other weird projects. 
+- 🌱 I’m currently learning Blender, C++, and lots of Linux Tools.
+- 📫 You can reach me on Discord @NachoEXG
 
 <!---
 NachoExg/NachoExg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
